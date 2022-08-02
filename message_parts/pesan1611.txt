@@ -1,0 +1,5 @@
+                 </li></ul></li>
+                <li class="header-sidebar__list-item" data-expandable="true" aria-expanded="false">
+                    <span>UGC NET
+                        <i class="gfg-icon gfg-icon_arrow-down"></i>
+                    <#$!

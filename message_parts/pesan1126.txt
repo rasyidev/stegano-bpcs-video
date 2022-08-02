@@ -1,0 +1,1 @@
+ :root a[href^="https://t.aslnk.link/"], :root [href^="https://zstacklife.com/"] img, :root a[href^="https://m.do.co/c/"] > img, :root a[href^="http://track.trkvluum.com/"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href^="http://amzn.t#$!

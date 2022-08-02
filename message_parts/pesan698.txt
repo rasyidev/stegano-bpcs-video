@@ -1,0 +1,1 @@
+f=lbp">type and isinstance in Python</a></li><li><a href="https://www.geeksforgeeks.org/python-check-if-a-variable-is-string/?ref=lbp">Python | Check if a variable is string</a></li><li><a href="https://www.geeksforgeeks.org/python-string-isnumeric-method/?#$!

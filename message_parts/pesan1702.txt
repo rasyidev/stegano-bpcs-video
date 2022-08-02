@@ -1,0 +1,1 @@
+s task. In this, we iterate through the tuple and check each element if it’s our, if found we return True.&nbsp;</p><div class="responsive-tabs-wrapper"><div class="responsive-tabs responsive-tabs--enabled"><ul class="responsive-tabs__list" role="tablist"#$!

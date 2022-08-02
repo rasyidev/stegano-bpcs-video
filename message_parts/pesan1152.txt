@@ -1,0 +1,1 @@
+tapes.com"], :root a[href^="//benoopto.com/"], :root [lazy-ad="leftbottom_banner"], :root a[href^="http://espn.zlbu.net/"], :root a[href^="http://admrotate.iplayer.org/"], :root [href^="http://join.rodneymoore.com/"], :root [id*="MarketGid"], :root a[href^=#$!

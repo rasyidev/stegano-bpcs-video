@@ -1,0 +1,1 @@
+, :root a[href^="http://www.tirerack.com/affiliates/"], :root a[href^="http://www.text-link-ads.com/"], :root a[href^="https://weedzy.co.uk/"][href*="&utm_"], :root a[href^="http://chaturbate.com/affiliates/"], :root a[href^="https://waisheph.com/"], :root #$!

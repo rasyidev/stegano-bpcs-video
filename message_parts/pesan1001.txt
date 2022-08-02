@@ -1,0 +1,1 @@
+e="application/wlwmanifest+xml" href="https://www.cdn.geeksforgeeks.org/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.9.8"><link rel="shortlink" href="https://www.geeksforgeeks.org/?p=360693"><link rel="alternate" type="applicatio#$!

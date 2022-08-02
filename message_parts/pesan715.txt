@@ -1,0 +1,1 @@
+ble-is-tuple/?ref=lbp">Python | Check if variable is tuple</a></li><li><a href="https://www.geeksforgeeks.org/python-type-function/?ref=lbp">type() function in Python</a></li><li><a href="https://www.geeksforgeeks.org/type-isinstance-python/?ref=lbp">type a#$!

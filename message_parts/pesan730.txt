@@ -1,0 +1,1 @@
+ost status-publish format-standard hentry category-python category-python-programs tag-python-tuple-programs" id="post-360693"><div style="position:relative"><div class="article-title"><h1>Python | Check if element is present in tuple</h1></div><div class="#$!

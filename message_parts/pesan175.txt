@@ -1,0 +1,1 @@
+ttp://adclick.g.doubleclick.net/"], :root a[href^="http://ad.yieldmanager.com/"], :root [href^="http://homemoviestube.com/"], :root a[href^="http://ad.doubleclick.net/"], :root [href^="https://wct.link/"], :root a[href^="https://track.totalav.com/"], :root #$!

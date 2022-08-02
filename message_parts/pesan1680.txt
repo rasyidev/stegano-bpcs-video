@@ -1,0 +1,1 @@
+k if element is present in tuple</a></li><li><a href="https://www.geeksforgeeks.org/python-check-if-variable-is-tuple/?ref=lbp">Python | Check if variable is tuple</a></li><li><a href="https://www.geeksforgeeks.org/python-type-function/?ref=lbp">type() func#$!

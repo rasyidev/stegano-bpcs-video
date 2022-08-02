@@ -1,0 +1,1 @@
+tracking.gitads.io/"], :root [href^="https://turtlebids.irauctions.com/"] img, :root [href*="incentrev.com/"] img, :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.interactivegf.co#$!

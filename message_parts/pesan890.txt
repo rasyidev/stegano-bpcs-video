@@ -1,0 +1,1 @@
+ame&quot;:&quot;headerBidding&quot;,&quot;floorPrice&quot;:&quot;&quot;,&quot;isEnabled&quot;:true,&quot;criteo&quot;:{&quot;name&quot;:&quot;criteo&quot;,&quot;zoneId&quot;:&quot;1416520&quot;},&quot;oftmedia&quot;:{&quot;name&quot;:&quot;oftmedia&quot;,&q#$!

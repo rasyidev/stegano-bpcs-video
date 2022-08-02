@@ -1,0 +1,3 @@
+         </li><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/?ref=ghm">UGC NET CS Notes Paper III</a>
+                    </li><li class="me#$!

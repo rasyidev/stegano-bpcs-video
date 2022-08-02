@@ -1,0 +1,1 @@
+mbed/1.0/embed?url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fpython-check-if-element-is-present-in-tuple%2F&amp;format=xml"><style>#wpadminbar{background:red!important}</style><style id="custom-background-css">body.custom-background{background-color:#fff}</styl#$!

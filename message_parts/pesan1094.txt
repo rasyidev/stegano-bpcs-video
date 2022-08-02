@@ -1,0 +1,1 @@
+ :root a[href^="https://pb-track.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a[href^="http://www.dealcent.com/register.php?affid="], :root a[href^="https://click.a-ads.com/"], :root a[href^="http://www.clkads.com/adServe/"], :root#$!

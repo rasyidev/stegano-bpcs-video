@@ -1,0 +1,1 @@
+php"], :root a[href^="http://www.wantstraffic.com/"], :root [href^="https://trackfin.asia/"], :root a[href^="http://databass.info/"], :root a[href^="http://track.afcpatrk.com/"], :root div[class^="Ad__container"], :root a[href^="http://adprovider.adlure.net#$!

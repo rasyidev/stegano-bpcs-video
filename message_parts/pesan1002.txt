@@ -1,0 +1,1 @@
+n/json+oembed" href="https://www.geeksforgeeks.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fpython-check-if-element-is-present-in-tuple%2F"><link rel="alternate" type="text/xml+oembed" href="https://www.geeksforgeeks.org/wp-json/oe#$!

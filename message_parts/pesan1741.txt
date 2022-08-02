@@ -1,0 +1,1 @@
+ss="line number10 index9 alt1">&nbsp;</div><div class="line number11 index10 alt2"><code class="comments"># initialize N</code></div><div class="line number12 index11 alt1"><code class="plain">N </code><code class="keyword">=</code> <code class="value">6</c#$!

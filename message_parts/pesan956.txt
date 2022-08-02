@@ -1,0 +1,2 @@
+</div><div class="shell"><div class="shell-container hide"><div class="shell-container_content"><h2>Start Your Coding Journey Now!</h2><div class="shell-container_actions"><button title="Login" data-gfg-action="login-modal">Login</button>
+<button title="Reg#$!

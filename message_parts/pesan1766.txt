@@ -1,0 +1,1 @@
+rap-slide next" style="flex-basis: 100%;"><div class="slide-item_list"><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-raise-elements-of-tuple-as-power-to-another-tuple/?ref=rp" title="Permalink to Python - Raise#$!

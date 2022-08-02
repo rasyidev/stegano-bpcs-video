@@ -1,0 +1,1 @@
+m/"], :root a[href^="http://xads.zedo.com/"], :root a[href^="https://adsrv4k.com/"], :root a[href^="http://trk.mdrtrck.com/"], :root a[href*="https://www.sweetdeals.com/"] img, :root a[href*=".zlink9.com/"], :root a[href^="http://bodelen.com/"], :root a[hre#$!

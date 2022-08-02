@@ -1,0 +1,1 @@
+/code><code class="keyword">=</code> <code class="color1">False</code></div><div class="line number17 index16 alt2"><code class="keyword">for</code> <code class="plain">ele </code><code class="keyword">in</code> <code class="plain">test_tup :</code></div><d#$!

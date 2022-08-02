@@ -1,0 +1,6 @@
+2s ease 0s;"></div><div style="display: none" class="ubey-RecordingScreen-count-down ubey-RecordingScreen-count-down-container">
+    <style>
+        .ubey-RecordingScreen-count-down-container {
+            position: fixed;
+            height: 100vh;
+       #$!

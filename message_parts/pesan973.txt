@@ -1,0 +1,1 @@
+pingback" href=""><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"GeeksforGeeks","url":"https://www.geeksforgeeks.org/","logo":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_compl#$!

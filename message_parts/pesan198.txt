@@ -1,0 +1,1 @@
+l__padding, :root #header + #content > #left > #rlblock_left, :root [href^="https://ilovemyfreedoms.com/landing-"], :root [href^="http://join.ts-dominopresley.com/"], :root [href^="https://go.affiliatexe.com/"], :root [href^="https://go.4rabettraff.com/"], #$!

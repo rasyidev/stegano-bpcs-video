@@ -1,0 +1,1 @@
+[href^="http://www.dealcent.com/register.php?affid="], :root a[href^="https://click.a-ads.com/"], :root a[href^="http://www.clkads.com/adServe/"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="http://www.bitlord.me/share/"], :root .grid #$!

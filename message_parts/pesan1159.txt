@@ -1,0 +1,1 @@
+ :root a[href^="https://go.trackitalltheway.com/"], :root [data-template-type="nativead"], :root [href^="https://track.fiverr.com/visit/"] > img, :root [href^="http://globsads.com/"], :root [href^="https://shrugartisticelder.com"], :root a[href^="//eurogirl#$!

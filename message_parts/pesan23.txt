@@ -1,0 +1,1 @@
+{var a=String.fromCharCode,f,g;return c.clearRect(0,0,b.width,b.height),c.fillText(a.apply(this,d),0,0),f=b.toDataURL(),c.clearRect(0,0,b.width,b.height),c.fillText(a.apply(this,e),0,0),g=b.toDataURL(),f===g}function l(b){var a;if(!c||!c.fillText)return!1;s#$!

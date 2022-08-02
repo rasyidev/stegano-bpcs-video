@@ -1,0 +1,1 @@
+ps://delivery.adrecover.com/'.concat(b,'/adRecover.js')),a.setAttribute('type','text/javascript'),a.setAttribute('async',!0),window.document.head.append(a)})}catch(a){console.log(a)}</script><script src="//m.servedby-buysellads.com/monetization.js" style="d#$!

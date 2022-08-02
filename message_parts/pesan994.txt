@@ -1,0 +1,1 @@
+oaded",h,!1),k.addEventListener("load",h,!1)):(k.attachEvent("onload",h),f.attachEvent("onreadystatechange",function(){"complete"===f.readyState&&a.readyCallback()})),e=a.source||{},e.concatemoji?j(e.concatemoji):e.wpemoji&&e.twemoji&&(j(e.twemoji),j(e.wpem#$!

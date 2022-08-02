@@ -1,0 +1,1 @@
+s="comments"># Python3 code to demonstrate working of</code></div><div class="line number2 index1 alt1"><code class="comments"># Check if element is present in tuple</code></div><div class="line number3 index2 alt2"><code class="comments"># Using in operato#$!

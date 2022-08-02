@@ -1,0 +1,2 @@
+iv class="footer-strip"><div class="copyright"><a href="https://www.geeksforgeeks.org/" rel="noopener noreferrer" target="_blank">@geeksforgeeks</a>
+<span>, <a href="https://www.geeksforgeeks.org/copyright-information/">Some rights reserved</a></span></div>#$!

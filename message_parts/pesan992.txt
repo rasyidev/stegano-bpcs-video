@@ -1,0 +1,1 @@
+ag","emoji"),a.supports={everything:!0,everythingExceptFlag:!0},d=0;d<g.length;d++)a.supports[g[d]]=l(g[d]),a.supports.everything=a.supports.everything&&a.supports[g[d]],"flag"!==g[d]&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supp#$!

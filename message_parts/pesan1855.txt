@@ -1,0 +1,1 @@
+false&amp;isByod=false&amp;height=90&amp;width=728&amp;networkProps=[{&quot;isInIframe&quot;:true,&quot;name&quot;:&quot;headerBidding&quot;,&quot;floorPrice&quot;:&quot;&quot;,&quot;isEnabled&quot;:true,&quot;criteo&quot;:{&quot;name&quot;:&quot;criteo&quo#$!

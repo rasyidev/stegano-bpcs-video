@@ -1,0 +1,1 @@
+iv.fadeInDown[id$="____equal"][class$="____equal"], :root display-ads, :root display-ad-component, :root bottomadblock, :root aside[id^="tn_ads_widget-"], :root aside[id^="adrotate_widgets-"], :root app-large-ad, :root amp-fx-flying-carpet, :root amp-embed[#$!

@@ -1,0 +1,1 @@
+ww.geeksforgeeks.org/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8"}},!function(k,f,a){function i(d,e){var a=String.fromCharCode,f,g;return c.clearRect(0,0,b.width,b.height),c.fillText(a.apply(this,d),0,0),f=b.toDataURL(),c.clearRect(0,0,b.width,b.height#$!

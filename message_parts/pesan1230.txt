@@ -1,0 +1,1 @@
+t-menu_left .nineDot-menu_item").each((g,e)=>{let d=jQuery(e).find("img"),f=d.attr("src"),[b,c]=/(.*)\.svg/g.exec(f);!b.includes("%40dark")&&a===gfgThemeList.DARK?b=`${c}%40dark.svg`:b.includes("%40dark")&&a===gfgThemeList.LIGHT&&(b=`${c.substr(0,c.length-7#$!

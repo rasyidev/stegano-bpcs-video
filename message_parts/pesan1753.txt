@@ -1,0 +1,3 @@
+ton data-type="like" class="vote-this" style="margin-right:0;margin-left:0">
+<i class="gfg-icon gfg-icon_like favoriteIcon"></i>
+<span class="favoriteLike">Like</span><figure class="favoriteText">0</figure></button></div></div><div class="d-row content-bw a#$!

@@ -1,0 +1,1 @@
+Advert-"], :root div[class^="BannerAd_"], :root div[class^="AdhesionAd_"], :root div[class^="Ad__bigBox"], :root div[class^="Ad__adContainer"], :root div[class^="AdSlot__container"], :root div[class^="ad_border_"], :root div[class^="AdItem-"], :root div[cla#$!

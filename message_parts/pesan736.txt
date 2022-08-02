@@ -1,0 +1,1 @@
+ed.&nbsp;</p><div id="GFG_AD_gfg_mobile_336x280"></div><h3><strong>Method #1: Using loop</strong>&nbsp;</h3><p>This is brute force method to perform this task. In this, we iterate through the tuple and check each element if it’s our, if found we return Tr#$!

@@ -1,0 +1,1 @@
+://www.geeksforgeeks.org/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script><script>jQuery(document).ready(function(a){RESPONSIVEUI.responsiveTabs()})</script><div class="cookie-consent hide-consent show-consent"><span class="cookie-text">We use cookies to #$!

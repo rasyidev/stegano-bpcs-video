@@ -1,0 +1,1 @@
+ rel="bookmark" class="c-wrap"><div class="head">Python - Check if any list element is present in Tuple</div><div class="meta">28, Aug 20</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-sort-tuple-#$!

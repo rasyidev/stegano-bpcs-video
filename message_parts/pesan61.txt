@@ -1,0 +1,1 @@
+bottomadblock, :root aside[id^="tn_ads_widget-"], :root aside[id^="adrotate_widgets-"], :root app-large-ad, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root aa[href^="https://itubego.com/video-downloader/?affid="], :root a[target="_blank"]#$!

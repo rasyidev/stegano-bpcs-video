@@ -1,0 +1,1 @@
+in Python</a></li><li><a href="https://www.geeksforgeeks.org/string-capitalize-python/?ref=lbp">string capitalize() in Python</a></li><li><a href="https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/?ref=lbp">isupper(), islower(), #$!

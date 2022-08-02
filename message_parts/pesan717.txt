@@ -1,0 +1,1 @@
+on String isnumeric() Method</a></li><li><a href="https://www.geeksforgeeks.org/python-string-isdigit-method/?ref=lbp">Python String isdigit() Method</a></li><li><a href="https://www.geeksforgeeks.org/python-string-isalpha-method/?ref=lbp">Python String isa#$!

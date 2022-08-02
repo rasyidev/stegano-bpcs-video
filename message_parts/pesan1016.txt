@@ -1,0 +1,1 @@
+v[id^="advads_"], :root div[id^="advads-"], :root div[id^="adspot-"], :root div[id^="ads300_100-widget-"], :root div[id^="ads250_250-widget-"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root div[id^="adfox_"], :root div[id^="ad_script_"#$!

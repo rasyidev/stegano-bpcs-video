@@ -1,0 +1,1 @@
+!1,a.readyCallback=function(){a.DOMReady=!0},a.supports.everything||(h=function(){a.readyCallback()},f.addEventListener?(f.addEventListener("DOMContentLoaded",h,!1),k.addEventListener("load",h,!1)):(k.attachEvent("onload",h),f.attachEvent("onreadystatechang#$!

@@ -1,0 +1,1 @@
+eeks.org/",gfgApiScriptUrl:"https://apiscript.geeksforgeeks.org/"}</script><script async="" src="https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.24"></script><link rel="https://api.w.org/" href="https://www.geeksforgeeks.org/#$!

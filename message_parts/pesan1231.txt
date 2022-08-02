@@ -1,0 +1,1 @@
+)}.svg`),d.attr("src",b)})};var isDarkMode=getThemeFromCookie()==gfgThemeList.DARK;document.querySelector("body").setAttribute("data-dark-mode",isDarkMode)</script><div class="header-main__wrapper"><a class="gfg-stc" style="top:0" href="#main">Skip to conte#$!

@@ -1,0 +1,2 @@
+("body").setAttribute("data-dark-mode",isDarkMode)</script><div class="header-main__wrapper"><a class="gfg-stc" style="top:0" href="#main">Skip to content</a>
+<a href="https://www.geeksforgeeks.org/" aria-label="Logo" class="header-main__logo"><div class="_#$!

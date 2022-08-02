@@ -1,0 +1,1 @@
+ass="comments"># using loop</code></div><div class="line number16 index15 alt1"><code class="plain">res </code><code class="keyword">=</code> <code class="color1">False</code></div><div class="line number17 index16 alt2"><code class="keyword">for</code> <co#$!

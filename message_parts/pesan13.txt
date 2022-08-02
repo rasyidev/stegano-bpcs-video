@@ -1,0 +1,1 @@
+bedV2.js",link_on_code_run='<br><br><a href="https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions&utm_source=practice&utm_medium=IDE&utm_campaign=practice-IDE">Improve your Coding Skills with Practice</a>',link_search_modal_top='',isAdminLog#$!

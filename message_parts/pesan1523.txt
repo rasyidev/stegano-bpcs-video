@@ -1,0 +1,4 @@
+inked-list/?ref=ghm">Linked List</a>
+                    </li><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/stack-data-structure/?ref=ghm">Stack</a>
+                    </li><li class="mega-dropdown__li#$!

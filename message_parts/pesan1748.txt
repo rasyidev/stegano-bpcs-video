@@ -1,0 +1,2 @@
+Output :&nbsp;</strong><p></p><pre>The original tuple : (10, 4, 5, 6, 8)
+Does tuple contain required value ? : True</pre></div><div class="textBasedMannualAds_2"><p><a href="https://practice.geeksforgeeks.org/courses/Python-Foundation?utm_source=gfg&amp;utm#$!

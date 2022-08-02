@@ -1,0 +1,1 @@
+ass="personalNoteStyle" placeholder="Add your personal notes here! (max 5000 chars)"></textarea><div class="saveNoteDiv"><span class="processSaveNote"></span><button class="savePersonalNoteButton" onclick="saveUserPersonalNote()">Save</button></div></div></#$!

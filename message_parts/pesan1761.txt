@@ -1,0 +1,1 @@
+ class="c-wrap"><div class="head">Python | Check if element is present in tuple of tuples</div><div class="meta">25, Jan 19</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-check-if-any-list-element#$!

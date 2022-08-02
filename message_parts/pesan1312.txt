@@ -1,0 +1,1 @@
+eeks.org/algorithms-gq/pattern-searching/?ref=ghm" target="_self">Pattern Searching</a></li><li class="mega-dropdown__list-item" data-child="true" aria-expanded="false" data-expandable="false"><a href="https://www.geeksforgeeks.org/geometric-algorithms/?ref#$!

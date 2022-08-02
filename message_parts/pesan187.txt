@@ -1,0 +1,1 @@
+/espn.zlbu.net/"], :root a[href^="http://admrotate.iplayer.org/"], :root [href^="http://join.rodneymoore.com/"], :root [id*="MarketGid"], :root a[href^="http://c.ketads.com/"], :root a[href^="http://www.badoink.com/go.php?"], :root .commercial-unit-mobile-t#$!

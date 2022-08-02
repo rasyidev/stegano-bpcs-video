@@ -1,0 +1,1 @@
+ margin: 0px; padding: 0px; border: none; display: block;"></iframe></div></div></div></aside><aside id="text-18" class="widget widget_text"><div class="textwidget"><div id="GFG_AD_Desktop_RightSideBar_BTFdocked_300x600" style="min-width:300px;min-height:60#$!

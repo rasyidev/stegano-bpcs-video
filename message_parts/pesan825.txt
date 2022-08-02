@@ -1,0 +1,1 @@
+lass="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-counting-nth-tuple-element/?ref=rp" title="Permalink to Python | Counting Nth tuple element" rel="bookmark" class="c-wrap"><div class="head">Python | Counting Nth tuple e#$!

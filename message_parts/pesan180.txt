@@ -1,0 +1,1 @@
+ot a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root a[href^="http://www.roboform.com/php/land.php"], :root a[href="//rufflycouncil.com/"], :root a[href^="http://xads.zedo.com/"], :root a[href^="https://adsrv4k.com/"], :root a[href^="http:#$!

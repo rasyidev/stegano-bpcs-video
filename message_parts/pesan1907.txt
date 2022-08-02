@@ -1,0 +1,1 @@
+s.org/sql-tutorial/?ref=footer">SQL</a></li><li><a href="https://www.geeksforgeeks.org/kotlin-programming-language/?ref=footer">Kotlin</a></li></ul><ul class="footer-wrapper_links-list"><li>Web Development</li><li><a href="https://www.geeksforgeeks.org/web-#$!

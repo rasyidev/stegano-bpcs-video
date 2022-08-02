@@ -1,0 +1,2 @@
+tle="Bookmark Article" data-gfg-action="bookmark-article" data-bookmark-value="0"><i class="gfg-icon gfg-icon_bookmark"></i>
+<span class="hide-sm" style="margin-top:-2px" data-value="bookmark-message"></span></div></div></div><button id="scrollTopBtn" title#$!

@@ -1,0 +1,1 @@
+e class="keyword">print</code><code class="plain">("The original </code><code class="functions">tuple</code> <code class="plain">: " </code><code class="keyword">+</code> <code class="functions">str</code><code class="plain">(test_tup))</code></div><div cla#$!

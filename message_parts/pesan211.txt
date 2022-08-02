@@ -1,0 +1,1 @@
+//farm.plista.com/pets"], :root LEADERBOARD-AD, :root [data-mobile-ad-id], :root [class^="Ad-adContainer"], :root a[href^="https://adclick.g.doubleclick.net/"], :root app-ad, :root [href^="http://misslinkvocation.com/"], :root [id^="ad-wrap-"], :root a[href#$!

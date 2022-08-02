@@ -1,0 +1,10 @@
+    background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 50%;
+        }
+
+        #ubey-RecordingScreen-count-count {
+            font-size: 14em;
+            transform: translateY(-2%);
+        }
+    </style>
+    <div class="ubey-RecordingScreen#$!

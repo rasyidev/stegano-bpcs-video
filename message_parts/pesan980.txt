@@ -1,0 +1,1 @@
+n, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."><link rel="canonical" href="https://www.geeksforgeeks.org/python-check-if-element-is-present-in-tuple/">#$!

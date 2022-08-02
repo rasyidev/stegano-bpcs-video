@@ -1,0 +1,1 @@
+cludes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script><style>img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;v#$!

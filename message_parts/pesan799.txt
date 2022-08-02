@@ -1,0 +1,1 @@
+v class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-replace-tuple-according-to-nth-tuple-element/?ref=rp" title="Permalink to Python | Replace tuple according to Nth tuple element" rel="bookmark" class="c-wrap"><div cla#$!

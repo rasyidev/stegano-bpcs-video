@@ -1,0 +1,1 @@
+ :root aside[id^="advads_ad_widget-"], :root a[href^="http://lp.ezdownloadpro.info/"], :root a[href^="http://uploaded.net/ref/"], :root a[href^="http://www.mysuperpharm.com/"], :root a[href^="http://www.freefilesdownloader.com/"], :root a[href^="http://ul.t#$!

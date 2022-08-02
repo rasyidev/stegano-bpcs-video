@@ -1,0 +1,1 @@
+ria-label="GeeksforGeeks App" target="_blank"><div class="android"></div></a></div></div><div class="footer-wrapper_links"><ul class="footer-wrapper_links-list"><li>Company</li><li><a href="https://www.geeksforgeeks.org/about/?ref=footer">About Us</a></li><#$!

@@ -1,0 +1,1 @@
+ng.com/"], :root a[href^="http://freesoftwarelive.com/"], :root a[href^="http://adtrackone.eu/"], :root span[title="Ads by Google"], :root a[href^="http://finaljuyu.com/"], :root a[href^="https://www.im88trk.com/"], :root a[href^="http://ffxitrack.com/"], :#$!

@@ -1,0 +1,3 @@
+okmark"></i></button></div><div pid="360693" class="article--viewer_like tooltip"><span class="tooltiptext">Like Article</span>
+<button data-gfg-action="like-article" data-bookmark-value="0">
+<i class="gfg-icon gfg-icon_thumbs"></i></button></div></div></di#$!

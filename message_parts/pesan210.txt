@@ -1,0 +1,1 @@
+iv[id^="crt-"][style], :root a[href^="http://igromir.info/"], :root div[id^="div-ads-"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="http://at.atwola.com/"], :root a[href^="https:#$!

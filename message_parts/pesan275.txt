@@ -1,0 +1,1 @@
+d="Line_1" data-name="Line 1" x1="1.046" fill="#0f2b3c"></line></g><g id="Group_157" data-name="Group 157" transform="translate(56.695 0.004)"><path id="Path_243" data-name="Path 243" d="M1352.9 615.759l-6.714-6.771v6.771h-3.09V594.521h3.09v12.53l6.084-6.05#$!

@@ -1,0 +1,1 @@
+/"], :root a[href^="http://www.xmediaserve.com/"], :root [href^="https://mypatriotsupply.com/"] > img, :root [href^="https://mylead.global/stl/"] > img, :root a[href^="http://affiliates.pinnaclesports.com/processing/"], :root .vid-present > .van_vid_carouse#$!

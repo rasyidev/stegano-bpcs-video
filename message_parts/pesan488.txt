@@ -1,0 +1,4 @@
+><input class="gcse-search-input__wrapper" id="gcse-search-input" aria-expanded="false">
+<i class="gfg-icon gfg-icon_times gfg-icon_white hide-search"></i>
+<button class="gcse-search__btn not-expanded">
+<i class="gfg-icon gfg-icon_search gfg-icon_white gcse#$!

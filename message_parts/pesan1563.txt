@@ -1,0 +1,3 @@
+f="https://www.geeksforgeeks.org/gate-corner-2-gq/?ref=ghm">GATE CS Solved Papers</a>
+                    </li><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/original-gate-previous-year-question-papers-c#$!

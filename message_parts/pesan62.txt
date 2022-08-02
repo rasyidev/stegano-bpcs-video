@@ -1,0 +1,1 @@
+[onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="https://x.trafficandoffers.com/"], :root a[href^="https://www.xvinlink.com/?a_fi#$!

@@ -1,0 +1,10 @@
+lign-items: center;
+            color: white;
+            height: 15em;
+            width: 15em;
+            transform: translate(-50%, -100%);
+            background-color: rgba(0, 0, 0, 0.6);
+            border-radius: 50%;
+        }
+
+        #ubey-Record#$!

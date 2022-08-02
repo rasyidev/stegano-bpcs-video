@@ -1,0 +1,3 @@
+                <a href="https://practice.geeksforgeeks.org/courses/category/school?utm_source=gfg&amp;utm_medium=submenu&amp;utm_campaign=courses-submenu">Explore more</a>
+                    </li></ul></li>
+                <li class="header-sidebar__list-#$!

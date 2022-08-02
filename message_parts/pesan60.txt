@@ -1,0 +1,1 @@
+ss^="AdEmbeded__AddWrapper"], :root span[data-component-type="s-ads-metrics"], :root div[class^="AdBannerWrapper-"], :root div[id^="code_ads_"], :root div.fadeInDown[id$="____equal"][class$="____equal"], :root display-ads, :root display-ad-component, :root #$!

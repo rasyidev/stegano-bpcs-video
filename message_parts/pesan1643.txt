@@ -1,0 +1,3 @@
+gn=gfgpractice_header">Contests and Events</a>
+                    </li><li class="mega-dropdown__list-item">
+                        <a href="https://practice.geeksforgeeks.org/explore?page=1&amp;curated[]=1&amp;sortBy=submissions&amp;utm_source=gfg&amp;ut#$!

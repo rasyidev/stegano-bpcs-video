@@ -1,0 +1,1 @@
+6 4.666.0 00-1.349 3.554v1.417h-2.922v2.752h2.922v12.036h3.091V604.209h4.016v-2.752h-4.016V600.4A2.5 2.5.0 011430.636 598.566z" transform="translate(-1424.063 -595.209)" fill="#0f2b3c"></path></g><g id="Group_164" data-name="Group 164" transform="translate(#$!

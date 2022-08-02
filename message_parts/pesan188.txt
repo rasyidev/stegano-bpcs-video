@@ -1,0 +1,1 @@
+op > div[data-pla="1"], :root a[href^="https://secure.starsaffiliateclub.com/C.ashx?"], :root [href^="https://zone.gotrackier.com/"], :root a[href^="http://ad-emea.doubleclick.net/"], :root [href^="https://www.mypillow.com/"] > img, :root [href^="https://ww#$!

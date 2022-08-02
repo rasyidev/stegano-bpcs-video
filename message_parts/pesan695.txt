@@ -1,0 +1,1 @@
+ment-from-a-list-of-tuples/?ref=lbp">Python | Find the tuples containing the given element from a list of tuples</a></li><li><a href="https://www.geeksforgeeks.org/python-check-if-element-is-present-in-tuple-of-tuples/?ref=lbp">Python | Check if element is #$!

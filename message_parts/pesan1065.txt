@@ -1,0 +1,1 @@
+root a[href^="https://retiremely.com/"], :root a[href^="https://cpmspace.com/"], :root [onclick*="content.ad/"], :root a[href^="https://clixtrac.com/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root a#$!

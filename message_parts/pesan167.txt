@@ -1,0 +1,1 @@
+="/adref:"] > img, :root a[href^="http://banners.victor.com/processing/"], :root a[href^="https://zononi.com/"], :root a[href*="//lkstrck2.com/"], :root div[aria-label="Ads"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="http://axdsz.pro/"]#$!

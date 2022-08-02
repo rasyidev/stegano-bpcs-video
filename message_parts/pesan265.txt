@@ -1,0 +1,1 @@
+g/g.exec(f);!b.includes("%40dark")&&a===gfgThemeList.DARK?b=`${c}%40dark.svg`:b.includes("%40dark")&&a===gfgThemeList.LIGHT&&(b=`${c.substr(0,c.length-7)}.svg`),d.attr("src",b)})};var isDarkMode=getThemeFromCookie()==gfgThemeList.DARK;document.querySelector#$!

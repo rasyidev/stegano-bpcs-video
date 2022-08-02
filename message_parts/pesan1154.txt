@@ -1,0 +1,1 @@
+p://ad-emea.doubleclick.net/"], :root [href^="https://www.mypillow.com/"] > img, :root [href^="https://www.herbanomic.com/"] > img, :root [href^="https://freecourseweb.com/"] > .sitefriend, :root [href^="https://www.hostg.xyz/aff_c"] > img, :root [href*=".e#$!

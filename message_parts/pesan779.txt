@@ -1,0 +1,1 @@
+><div class="line number19 index18 alt2"><code class="functions">print</code><code class="plain">("Does </code><code class="functions">tuple</code> <code class="plain">contain required value ? : " </code><code class="keyword">+</code> <code class="functions#$!

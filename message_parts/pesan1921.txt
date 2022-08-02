@@ -1,0 +1,2 @@
+ss="lightbox-target"><img id="lightbox-image" src="" alt="Lightbox">
+<span class="lightbox-close"></span></div><div class="shell"><div class="shell-container hide"><div class="shell-container_content"><h2>Start Your Coding Journey Now!</h2><div class="shell#$!

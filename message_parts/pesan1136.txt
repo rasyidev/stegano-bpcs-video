@@ -1,0 +1,1 @@
+t a[href^="http://aff.ironsocket.com/"], :root a[href^="http://tour.mrskin.com/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="http://linksnappy.com/?ref="], :root ad-desktop-sidebar, :root [data-ad-width], :root [id*="MGWrap"], :root a[h#$!

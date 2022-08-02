@@ -1,0 +1,1 @@
+, :root AMP-AD, :root a[href^="https://go.xxxiijmp.com"], :root div[class^="StickyHeroAdWrapper-"], :root a[href^="http://cwcams.com/landing/click/"], :root a[href^="http://ads.betfair.com/redirect.aspx?"], :root a[href^="http://adserver.adreactor.com/"], :#$!

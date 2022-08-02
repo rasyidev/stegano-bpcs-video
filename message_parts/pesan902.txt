@@ -1,0 +1,1 @@
+rm="translate(3703.022 236.148)"><g id="Group_156" data-name="Group 156" transform="translate(26.144 4.527)"><line id="Line_1" data-name="Line 1" x1="1.046" fill="#0f2b3c"></line></g><g id="Group_157" data-name="Group 157" transform="translate(56.695 0.004)#$!

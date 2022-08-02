@@ -1,0 +1,1 @@
+="line number14 index13 alt1"><code class="comments"># Check if element is present in tuple</code></div><div class="line number15 index14 alt2"><code class="comments"># using loop</code></div><div class="line number16 index15 alt1"><code class="plain">res <#$!

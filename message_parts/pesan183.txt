@@ -1,0 +1,1 @@
+m/"], :root a[href^="http://secure.cbdpure.com/aff/"], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="http://affiliates.score-affiliates.com/"], :root a[data-oburl^#$!

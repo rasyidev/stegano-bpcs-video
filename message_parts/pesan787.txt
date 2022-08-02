@@ -1,0 +1,2 @@
+div></div></article><div class="article-meta"><div class="vote-wrap"><div style="display:flex;align-items:center;justify-content:center;width:100%"><button data-type="like" class="vote-this" style="margin-right:0;margin-left:0">
+<i class="gfg-icon gfg-icon_#$!

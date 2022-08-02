@@ -1,0 +1,1 @@
+ive-tabs__list__item--active" id="tablist2-tab1" aria-controls="tablist2-panel1" role="tab" tabindex="0">Python3</li></ul><h2 class="tabtitle responsive-tabs__heading responsive-tabs__heading--active" tabindex="0">Python3</h2><div class="tabcontent responsi#$!

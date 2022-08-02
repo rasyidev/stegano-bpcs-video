@@ -1,0 +1,1 @@
+class="head">Python | Remove similar element rows in tuple Matrix</div><div class="meta">24, Oct 19</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-remove-duplicates-based-on-kth-element-tuple-list#$!

@@ -1,0 +1,1 @@
+Counting Nth tuple element" rel="bookmark" class="c-wrap"><div class="head">Python | Counting Nth tuple element</div><div class="meta">01, Nov 19</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-min#$!

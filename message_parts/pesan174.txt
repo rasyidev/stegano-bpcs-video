@@ -1,0 +1,1 @@
+root a[href^="http://ads.sprintrade.com/"], :root .section-subheader > .section-hotel-prices-header, :root a[href^="http://landingpagegenius.com/"], :root [href^="https://click2cvs.com/"], :root a[href^="http://ads.expekt.com/affiliates/"], :root a[href^="h#$!

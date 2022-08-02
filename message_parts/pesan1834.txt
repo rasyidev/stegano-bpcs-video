@@ -1,0 +1,1 @@
+t: 1px; font-family: Verdana, Geneva, sans-serif; font-size: 10px; font-weight: 400; z-index: 999; text-transform: uppercase; color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0.55); line-height: 13px; padding: 2px 4px; box-sizing: border-box; curs#$!

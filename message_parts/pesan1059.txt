@@ -1,0 +1,1 @@
+ot a[href^="https://gohere.pl/"], :root a[href^="http://guideways.info/"], :root a[href^="https://go.cmrdr.com/"], :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="http://www.easydownloadnow.com/"], :root a[href^="https://go.alxbgo.com/"],#$!

@@ -1,0 +1,1 @@
+),c.fillText(a.apply(this,e),0,0),g=b.toDataURL(),f===g}function l(b){var a;if(!c||!c.fillText)return!1;switch(c.textBaseline="top",c.font="600 32px Arial",b){case"flag":return!(a=i([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(a=i([55356,573#$!

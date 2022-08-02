@@ -1,0 +1,1 @@
+o/"] > img[src^="data"], :root a[href^="http://bs.serving-sys.com/"], :root a[href^="http://cpaway.afftrack.com/"], :root a[href^="http://cdn.adsrvmedia.net/"], :root [href^="https://infinitytrk.com/"], :root [lazy-ad="top_banner"], :root a[href^="http://36#$!

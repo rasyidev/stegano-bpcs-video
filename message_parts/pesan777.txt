@@ -1,0 +1,1 @@
+de class="comments"># Check if element is present in tuple</code></div><div class="line number15 index14 alt2"><code class="comments"># Using in operator</code></div><div class="line number16 index15 alt1"><code class="plain">res </code><code class="keyword#$!

@@ -1,0 +1,1 @@
+, :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="http://aflrm.com/"], :root a[href^="http://affiliates.thrixxx.com/"], :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="http://affiliates.lifeselector.com/"], :roo#$!

@@ -1,0 +1,1 @@
+r</code></div><div class="line number16 index15 alt1"><code class="plain">res </code><code class="keyword">=</code> <code class="plain">N </code><code class="keyword">in</code> <code class="plain">test_tup</code></div><div class="line number17 index16 alt2"#$!

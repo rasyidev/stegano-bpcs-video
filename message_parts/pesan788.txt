@@ -1,0 +1,2 @@
+like favoriteIcon"></i>
+<span class="favoriteLike">Like</span><figure class="favoriteText">0</figure></button></div></div><div class="d-row content-bw article-pgnavi v-divider-gfg"><div class="article-pgnavi_prev"><a href="https://www.geeksforgeeks.org/pyth#$!

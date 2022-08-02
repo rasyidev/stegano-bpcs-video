@@ -1,0 +1,1 @@
+rl:"https://write.geeksforgeeks.org/",utilUrl:"https://util.geeksforgeeks.org/",apiUrl:"https://api.geeksforgeeks.org/",cfApiUrl:"https://gfgapi.geeksforgeeks.org/",baseCompilerURL:"https://codejudge.geeksforgeeks.org/",idePageBaseUrl:"https://ide.geeksforg#$!

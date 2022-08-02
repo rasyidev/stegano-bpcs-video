@@ -1,0 +1,1 @@
+ :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root a[href^="http://www.myfreepaysite.com/sfw.php?aid"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="http://bcntrack.com/"], :root a[href^="http://www.securegfm.com/"], :root a[h#$!

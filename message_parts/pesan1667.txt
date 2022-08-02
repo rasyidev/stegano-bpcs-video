@@ -1,0 +1,1 @@
+, islower(), lower(), upper() in Python and their applications</a></li><li><a href="https://www.geeksforgeeks.org/python-string-upper/?ref=lbp">Python String upper()</a></li><li><a href="https://www.geeksforgeeks.org/python-string-length-len/?ref=lbp">Pytho#$!

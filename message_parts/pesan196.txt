@@ -1,0 +1,1 @@
+annerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://vo2.qrlsx.com/"], :root a[href^="https://tracking.truthfinder.com/?a="], :root .scroll-fixable.rail-right > .deals-rail, :root a[href*=".flndmyiove.net#$!

@@ -1,0 +1,2 @@
+gfg-action="toggleGFGTheme">
+<i class="gfg-icon gfg-icon_dark-mode"></i></button></div><script src="https://www.geeksforgeeks.org/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script><script>jQuery(document).ready(function(a){RESPONSIVEUI.responsiveTabs()})</#$!

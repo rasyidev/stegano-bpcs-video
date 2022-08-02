@@ -1,0 +1,1 @@
+<div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-convert-tuple-matrix-to-tuple-list/?ref=rp" title="Permalink to Python - Convert Tuple Matrix to Tuple List" rel="bookmark" class="c-wrap"><div class="head">Python #$!

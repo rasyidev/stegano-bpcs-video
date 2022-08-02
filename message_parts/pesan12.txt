@@ -1,0 +1,1 @@
+,post_id="360693",post_type="post",post_slug=window.location.href,ip="54.185.124.125",post_title="Python | Check if element is present in tuple",post_status="publish",post_date="2019-11-21 00:42:45",commentSysUrl="https://discuss.geeksforgeeks.org/commentEm#$!

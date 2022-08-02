@@ -1,0 +1,1 @@
+class="article-page_flex"><div class="sideBar"><div class="sideBar--wrap"><ul class="leftBarList"><li><a href="https://www.geeksforgeeks.org/python-accessing-nth-element-from-tuples-in-list/?ref=lbp">Python | Accessing nth element from tuples in list</a></l#$!

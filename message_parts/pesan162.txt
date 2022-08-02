@@ -1,0 +1,1 @@
+ck.com/"], :root a[href^="http://cdn.adsrvmedia.net/"], :root [href^="https://infinitytrk.com/"], :root [lazy-ad="top_banner"], :root a[href^="http://360ads.go2cloud.org/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root a[href^="http:/#$!

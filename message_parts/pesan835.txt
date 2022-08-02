@@ -1,0 +1,4 @@
+on>
+<button data-gfg-action="article-difficulty" data-rating="2" class="btn">Normal</button>
+<button data-gfg-action="article-difficulty" data-rating="3" class="btn">Medium</button>
+<button data-gfg-action="article-difficulty" data-rating="4" class="btn">Ha#$!

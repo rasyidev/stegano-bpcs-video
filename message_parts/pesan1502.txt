@@ -1,0 +1,4 @@
+          </li><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/?ref=ghm">Pattern Searching</a>
+                    </li><li class="mega-dropdown__list-item">
+              #$!

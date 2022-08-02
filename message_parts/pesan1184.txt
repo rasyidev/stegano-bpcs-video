@@ -1,0 +1,1 @@
+pet"], :root a[href^="http://fsoft4down.com/"], :root div[id^="ad_bigbox_"], :root #content > #right > .dose > .dosesingle, :root [href^="https://affiliate.fastcomet.com/"] > img, :root a[href^="https://intrev.co/"], :root a[href^="http://https://www.get-ex#$!

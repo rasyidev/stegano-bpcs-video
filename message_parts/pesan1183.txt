@@ -1,0 +1,1 @@
+get], :root [id^="bunyad-widget-ads-"], :root [href^="https://clk.right-wing-health.com/"], :root a[href^="https://secure.cbdpure.com/aff/"], :root a[href^="http://goldmoney.com/?gmrefcode="], :root .plistaList > .plista_widget_underArticle_item[data-type="#$!

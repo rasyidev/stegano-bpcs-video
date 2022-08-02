@@ -1,0 +1,1 @@
+pt>try{var isAdblockEnabled=a=>fetch(new Request('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',{method:'HEAD',mode:'no-cors'})).catch(a);isAdblockEnabled(()=>{var a=window.document.createElement('script'),b=41782;a.setAttribute('src','htt#$!

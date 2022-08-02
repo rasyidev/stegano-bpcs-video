@@ -1,0 +1,1 @@
+"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://www.share-online.biz/affiliate/"], :root a[href^="https://www.securegfm.com/"], :root a[href^="https:/#$!

@@ -1,0 +1,1 @@
+ Tuple and Tuple into Set</div><div class="meta">23, Nov 20</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-program-to-find-tuple-indices-from-other-tuple-list/?ref=rp" title="Permalink to Python P#$!

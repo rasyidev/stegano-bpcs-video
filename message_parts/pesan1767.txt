@@ -1,0 +1,1 @@
+ elements of tuple as power to another tuple" rel="bookmark" class="c-wrap"><div class="head">Python - Raise elements of tuple as power to another tuple</div><div class="meta">29, Nov 19</div></a></div><div class="slide-item"><div class="sno"></div><a href=#$!

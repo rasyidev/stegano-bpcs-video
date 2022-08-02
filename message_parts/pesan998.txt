@@ -1,0 +1,1 @@
+bject={authUrl:"https://auth.geeksforgeeks.org/",writeApiUrl:"https://apiwrite.geeksforgeeks.org/",writeUrl:"https://write.geeksforgeeks.org/",utilUrl:"https://util.geeksforgeeks.org/",apiUrl:"https://api.geeksforgeeks.org/",cfApiUrl:"https://gfgapi.geeksfo#$!

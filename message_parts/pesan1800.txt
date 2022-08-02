@@ -1,0 +1,3 @@
+abel-list without-bg"><button data-gfg-action="article-difficulty" data-rating="1" class="btn">Easy</button>
+<button data-gfg-action="article-difficulty" data-rating="2" class="btn">Normal</button>
+<button data-gfg-action="article-difficulty" data-rating="3#$!

@@ -1,0 +1,1 @@
+ex10 alt2"><code class="comments"># initialize N</code></div><div class="line number12 index11 alt1"><code class="plain">N </code><code class="keyword">=</code> <code class="value">6</code></div><div class="line number13 index12 alt2">&nbsp;</div><div class#$!

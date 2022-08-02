@@ -1,0 +1,5 @@
+fg-icon gfg-icon_arrow-down"></i>
+                    </span>
+
+                    <ul class="mega-dropdown"><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/software-design-patterns/?ref=ghm">Software Des#$!

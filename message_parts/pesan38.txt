@@ -1,0 +1,1 @@
+mp;format=xml"><style>#wpadminbar{background:red!important}</style><style id="custom-background-css">body.custom-background{background-color:#fff}</style><link rel="amphtml" href="https://www.geeksforgeeks.org/python-check-if-element-is-present-in-tuple/amp#$!

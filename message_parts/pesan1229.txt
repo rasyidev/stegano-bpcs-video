@@ -1,0 +1,1 @@
+({LIGHT:"gfgThemeLight",DARK:"gfgThemeDark"}),getThemeFromCookie=()=>{let a="",c=document.cookie,b=c.split(";");for(let c=0;c<b.length;c++){let d=b[c].split("=");d[0].trim()=="gfg_theme"&&(a=d[1].trim())}return a},toggleNineDotMenuImages=a=>{jQuery(".nineDo#$!

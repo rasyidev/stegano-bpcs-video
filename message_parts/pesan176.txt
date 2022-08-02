@@ -1,0 +1,1 @@
+a[href^="http://ad-apac.doubleclick.net/"], :root a[href^="http://srvpub.com/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href^="http://secure.vivid.com/track/"], :root a[href^="https://clickadilla.com/"], :root a[href^="http://www.adskeep#$!

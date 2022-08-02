@@ -1,0 +1,2 @@
+</div><div class="footer-wrapper_branding-email"><i class="gfg-icon gfg-icon_mail"></i>
+<a href="mailto:feedback@geeksforgeeks.org">feedback@geeksforgeeks.org</a></div><div class="footer-wrapper_branding-social"><a href="https://www.facebook.com/geeksforgee#$!

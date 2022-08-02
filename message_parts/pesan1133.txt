@@ -1,0 +1,1 @@
+ div[aria-label="Ads"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="http://axdsz.pro/"], :root a[href^="http://api.content.ad/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="http://affiliate.glbtracker.com/"], :root a[href^="h#$!

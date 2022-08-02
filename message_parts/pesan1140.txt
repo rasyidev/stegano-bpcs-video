@@ -1,0 +1,1 @@
+ot [href^="https://click2cvs.com/"], :root a[href^="http://ads.expekt.com/affiliates/"], :root a[href^="http://adclick.g.doubleclick.net/"], :root a[href^="http://ad.yieldmanager.com/"], :root [href^="http://homemoviestube.com/"], :root a[href^="http://ad.d#$!

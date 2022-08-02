@@ -1,0 +1,1 @@
+^="https://ads.ad4game.com/"], :root a[href^="https://affiliates.bet-at-home.com/processing/"], :root a[href^="https://betway.com/"][href*="&a="], :root a[href^="http://www.mobileandinternetadvertising.com/"], :root a[href^="http://www.downloadthesefiles.co#$!

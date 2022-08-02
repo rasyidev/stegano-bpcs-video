@@ -1,0 +1,1 @@
+, :root a[href^="https://burpee.xyz/"], :root a[href^="https://mcdlks.com/"], :root a[href^="https://bs.serving-sys.com"], :root a[href^="https://blackorange.go2cloud.org/"], :root [data-dynamic-ads], :root a[href^="https://banners.livepartners.com/"], :roo#$!

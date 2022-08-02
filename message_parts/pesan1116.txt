@@ -1,0 +1,1 @@
+com/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[href^="http://intent.bingads.com/"], :root a[href^="//voyeurhit.com/cs/"], :root a[href^="http://hd-plugins.com/download/"], :root [data-desktop-ad-id], :root a[href^="https://look.utnd#$!

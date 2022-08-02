@@ -1,0 +1,1 @@
+v[class^="AdSlot__container"], :root div[class^="ad_border_"], :root div[class^="AdItem-"], :root div[class^="AdEmbeded__AddWrapper"], :root span[data-component-type="s-ads-metrics"], :root div[class^="AdBannerWrapper-"], :root div[id^="code_ads_"], :root d#$!

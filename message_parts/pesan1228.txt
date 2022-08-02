@@ -1,0 +1,1 @@
+ class="post-template-default single single-post postid-360693 single-format-standard custom-background custom-background-white" data-dark-mode="true" data-new-gr-c-s-check-loaded="14.1070.0" data-gr-ext-installed=""><script>const gfgThemeList=Object.freeze#$!

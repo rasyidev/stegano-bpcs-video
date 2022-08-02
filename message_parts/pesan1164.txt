@@ -1,0 +1,1 @@
+resley.com/"], :root [href^="https://go.affiliatexe.com/"], :root [href^="https://go.4rabettraff.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root #ads > .dose > .dosesingle, :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root [#$!

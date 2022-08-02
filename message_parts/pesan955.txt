@@ -1,0 +1,4 @@
+s://www.geeksforgeeks.org/privacy-policy/" target="_blank"><u>Privacy Policy</u></a></span>
+<button class="consent-btn">
+Got It !</button></div><div class="lightbox-target"><img id="lightbox-image" src="" alt="Lightbox">
+<span class="lightbox-close"></span>#$!

@@ -1,0 +1,1 @@
+a[href^="https://www.jackery.com?aff="] > img, :root div[data-adzone], :root a[href^="https://www.iyalc.com/"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://www.infowarsstor#$!

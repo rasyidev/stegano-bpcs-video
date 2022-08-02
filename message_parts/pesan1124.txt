@@ -1,0 +1,1 @@
+osesingle, :root a[href^="http://d2.zedo.com/"], :root a[href^="http://czotra-32.com/"], :root a[href^="https://www.travelzoo.com/oascampaignclick/"], :root a[href^="https://see.kmisln.com/"], :root [href^="https://routewebtk.com/"], :root a[href^="http://r#$!

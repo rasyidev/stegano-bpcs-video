@@ -1,0 +1,1 @@
+wp-json/"><link rel="edituri" type="application/rsd+xml" title="RSD" href="https://www.cdn.geeksforgeeks.org/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.cdn.geeksforgeeks.org/wp-includes/wlwmanifest.xml"><met#$!

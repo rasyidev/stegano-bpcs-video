@@ -1,0 +1,1 @@
+om/"], :root a[href^="http://www.usearchmedia.com/signup?"], :root a[href^="https://twinrdsyn.com/"], :root a[href^="http://www.torntv-downloader.com/"], :root a[href^="http://www.tirerack.com/affiliates/"], :root a[href^="http://www.text-link-ads.com/"], :#$!

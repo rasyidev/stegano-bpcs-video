@@ -1,0 +1,1 @@
+ a[href^="https://tour.mrskin.com/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://fakelay.com/"], :root a[href^="https://earand#$!

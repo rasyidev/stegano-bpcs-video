@@ -1,0 +1,5 @@
+ign Patterns</a>
+                    </li><li class="mega-dropdown__list-item">
+                        <a href="https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm">System Design Tutorial</a>
+                    </li></ul></li>
+                <l#$!

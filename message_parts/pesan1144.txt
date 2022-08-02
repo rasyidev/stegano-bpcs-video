@@ -1,0 +1,1 @@
+root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="//lambingsyddir.com/"], :root a[href^="https://go.julrdr.com/"], :root [id^="chp_ads_block"], :root .trc_rbox_div .syndicatedItemUB, :root [hr#$!

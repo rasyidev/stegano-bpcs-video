@@ -1,0 +1,1 @@
+e",function(){"complete"===f.readyState&&a.readyCallback()})),e=a.source||{},e.concatemoji?j(e.concatemoji):e.wpemoji&&e.twemoji&&(j(e.twemoji),j(e.wpemoji)))}(window,document,window._wpemojiSettings)</script><script src="https://www.geeksforgeeks.org/wp-in#$!

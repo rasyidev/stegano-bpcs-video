@@ -1,0 +1,1 @@
+r-radius:4px;bottom:0;cursor:pointer;left:0;position:absolute;right:0;top:0}.L5Fo6c-bF1uUb:focus{border:none;outline:none}sentinel{}</style></head><body class="post-template-default single single-post postid-360693 single-format-standard custom-background c#$!

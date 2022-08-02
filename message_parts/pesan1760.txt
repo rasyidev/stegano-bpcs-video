@@ -1,0 +1,1 @@
+slide-item_list"><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-check-if-element-is-present-in-tuple-of-tuples/?ref=rp" title="Permalink to Python | Check if element is present in tuple of tuples" rel="bookmark"#$!

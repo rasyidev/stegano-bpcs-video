@@ -1,0 +1,1 @@
+iv></div><div id="displayModal" class="modal fade" role="dialog"><div class="modal-dialog"><div class="upper-box"><h3 style="font:700 18px/31px var(--font-sofia);color:var(--color-black)">Improve your Coding Skills with Practice</h3><button class="upper-box#$!

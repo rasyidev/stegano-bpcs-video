@@ -1,0 +1,1 @@
+:root FBS-AD, :root .trc_rbox_div .syndicatedItem, :root a[href^="//www.pd-news.com/"], :root a-ad, :root hl-adsense, :root div[data-contentexchange-widget], :root [id^="bunyad-widget-ads-"], :root [href^="https://clk.right-wing-health.com/"], :root a[href^#$!

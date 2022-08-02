@@ -1,0 +1,1 @@
+s="line number9 index8 alt2"><code class="keyword">print</code><code class="plain">("The original </code><code class="functions">tuple</code> <code class="plain">: " </code><code class="keyword">+</code> <code class="functions">str</code><code class="plain"#$!

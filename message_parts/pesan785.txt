@@ -1,0 +1,2 @@
+r"><span class="noteHeaderText">My Personal Notes</span>
+<span class="hideNotesDivIcon"><i class="material-icons personalNotesIcon">arrow_drop_up</i></span></div><div class="collapsableDivPersonalNotes"><textarea maxlength="5000" id="enteredPersonalNote" cl#$!

@@ -1,0 +1,1 @@
+"https://s.w.org/images/core/emoji/11/72x72/",ext:".png",svgUrl:"https://s.w.org/images/core/emoji/11/svg/",svgExt:".svg",source:{concatemoji:"https://www.geeksforgeeks.org/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8"}},!function(k,f,a){function i(d,e)#$!

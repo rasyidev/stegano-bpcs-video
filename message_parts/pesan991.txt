@@ -1,0 +1,1 @@
+,8203,9792,65039]),!a}return!1}function j(b){var a=f.createElement("script");a.src=b,a.defer=a.type="text/javascript",f.getElementsByTagName("head")[0].appendChild(a)}var e,h,d,g,b=f.createElement("canvas"),c=b.getContext&&b.getContext("2d");for(g=Array("fl#$!

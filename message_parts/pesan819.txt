@@ -1,0 +1,1 @@
+ide-item_list"><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-get-tuple-element-data-types/?ref=rp" title="Permalink to Python | Get tuple element data types" rel="bookmark" class="c-wrap"><div class="head">Pyth#$!

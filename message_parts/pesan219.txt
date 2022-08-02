@@ -1,0 +1,1 @@
+ose > .dosesingle, :root [href^="https://affiliate.fastcomet.com/"] > img, :root a[href^="https://intrev.co/"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root a[href^="https://misspkl.com/"], :root a[href^="https://ad.zanox.com/ppc/"]#$!

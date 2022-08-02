@@ -1,0 +1,1 @@
+oot [class^="s2nPlayer"], :root [class*="__adv-block"], :root a[href^="https://www.adxtro.com/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href^="http://paid.outbrain.com/network/redir?"], :#$!

@@ -1,0 +1,1 @@
+type="taboola"], :root aa[href^="https://itubego.com/video-downloader/?affid="], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="#$!

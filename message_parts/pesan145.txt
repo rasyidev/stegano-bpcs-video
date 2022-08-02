@@ -1,0 +1,1 @@
+:root a[href^="http://pwrads.net/"], :root a[href^="http://promos.bwin.com/"], :root a[href^="http://z1.zedo.com/"], :root a[href^="http://pokershibes.com/index.php?ref="], :root a[href^="http://partners.etoro.com/"], :root a[href^="http://searchtabnew.com/#$!

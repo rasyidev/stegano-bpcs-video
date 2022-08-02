@@ -1,0 +1,1 @@
+class="c-wrap"><div class="head">Python | Remove duplicates based on Kth element tuple list</div><div class="meta">29, Oct 19</div></a></div></div></div><div class="gfg--carousel_wrap-slide next" style="flex-basis: 100%;"><div class="slide-item_list"><div c#$!

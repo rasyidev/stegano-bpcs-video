@@ -1,0 +1,4 @@
+g/?ref=ghm" target="_self">Courses</a></li><li><ul id="sidebar-list">
+                <li class="header-sidebar__list-item" data-expandable="false" aria-expanded="false">
+                    <span>For Working Professionals
+                        <i class="#$!

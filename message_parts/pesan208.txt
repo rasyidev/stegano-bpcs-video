@@ -1,0 +1,1 @@
+.com/"], :root a[href^="http://media.paddypower.com/redirect.aspx?"], :root a[href^="https://cpartner.bdswiss.com/"], :root a[href^="http://www.flashx.tv/downloadthis"], :root a[href^="https://www.spyoff.com/"], :root [href^="http://mypillow.com/"] > img, :#$!

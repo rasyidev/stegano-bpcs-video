@@ -1,0 +1,1 @@
+r"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="https://go.247traffic.com/"], :root amp-ad-custom, :root [href^="https://antiagingbed.com/discount/"] > img, :root [class^="AdvertisingSlot_"], :root [href^="http://trafficare.net/"], #$!

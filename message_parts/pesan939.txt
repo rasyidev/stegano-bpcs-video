@@ -1,0 +1,1 @@
+geeksforgeeks.org/lifestyle?ref=footer">Lifestyle</a></li><li><a href="https://news.geeksforgeeks.org/knowledge?ref=footer">Knowledge</a></li></ul><ul class="footer-wrapper_links-list"><li>Languages</li><li><a href="https://www.geeksforgeeks.org/python-prog#$!

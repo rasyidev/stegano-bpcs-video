@@ -1,0 +1,1 @@
+ a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="http://www.bitlord.me/share/"], :root .grid > .container > #aside-promotion, :root a[href^="http://www.babylon.com/welcome/index?affID"], :root a[href^="https://fast-redirecting.com/"], :root a[hr#$!

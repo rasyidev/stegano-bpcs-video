@@ -1,0 +1,1 @@
+bp">string capitalize() in Python</a></li><li><a href="https://www.geeksforgeeks.org/isupper-islower-lower-upper-python-applications/?ref=lbp">isupper(), islower(), lower(), upper() in Python and their applications</a></li><li><a href="https://www.geeksforg#$!

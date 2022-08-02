@@ -1,0 +1,1 @@
+<code class="functions">tuple</code> <code class="plain">: " </code><code class="keyword">+</code> <code class="functions">str</code><code class="plain">(test_tup))</code></div><div class="line number10 index9 alt1">&nbsp;</div><div class="line number11 ind#$!

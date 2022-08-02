@@ -1,0 +1,3 @@
+" class="btn">Medium</button>
+<button data-gfg-action="article-difficulty" data-rating="4" class="btn">Hard</button>
+<button data-gfg-action="article-difficulty" data-rating="5" class="btn">Expert</button></div><div class="gfg-process" style="margin-top:10p#$!

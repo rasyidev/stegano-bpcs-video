@@ -1,0 +1,1 @@
+jquery.com/jquery-3.1.1.min.js?ver=3.1.1"></script><script src="https://code.jquery.com/jquery-migrate-3.0.0.min.js?ver=3.0.0"></script><script>var gfgObject={authUrl:"https://auth.geeksforgeeks.org/",writeApiUrl:"https://apiwrite.geeksforgeeks.org/",writeU#$!

@@ -1,0 +1,1 @@
+6</code><code class="plain">, </code><code class="value">8</code><code class="plain">)</code></div><div class="line number7 index6 alt2">&nbsp;</div><div class="line number8 index7 alt1"><code class="comments"># printing original tuple</code></div><div clas#$!

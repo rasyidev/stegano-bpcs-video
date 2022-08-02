@@ -1,0 +1,1 @@
+p://track.afcpatrk.com/"], :root div[class^="Ad__container"], :root a[href^="http://adprovider.adlure.net/"], :root a[href^="http://t.wowtrk.com/"], :root a[href^="http://tezfiles.com/pr/"], :root a[href^="http://tracking.deltamediallc.com/"], :root a[href^#$!

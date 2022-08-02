@@ -1,0 +1,1 @@
+List"><li><a href="https://www.geeksforgeeks.org/python-accessing-nth-element-from-tuples-in-list/?ref=lbp">Python | Accessing nth element from tuples in list</a></li><li><a href="https://www.geeksforgeeks.org/python-find-the-tuples-containing-the-given-ele#$!

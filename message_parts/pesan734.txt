@@ -1,0 +1,4 @@
+t">Like Article</span>
+<button data-gfg-action="like-article" data-bookmark-value="0">
+<i class="gfg-icon gfg-icon_thumbs"></i></button></div></div></div><div class="media"><div class="meta"><ul><li><span class="strong">Last Updated :</span>
+<span>10 Jun, 2#$!

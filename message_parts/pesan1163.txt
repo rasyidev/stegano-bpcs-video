@@ -1,0 +1,1 @@
+ :root a[href^="http://affiliates.pinnaclesports.com/processing/"], :root .vid-present > .van_vid_carousel__padding, :root #header + #content > #left > #rlblock_left, :root [href^="https://ilovemyfreedoms.com/landing-"], :root [href^="http://join.ts-dominop#$!

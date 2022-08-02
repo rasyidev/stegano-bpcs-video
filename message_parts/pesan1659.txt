@@ -1,0 +1,1 @@
+<i class="gfg-icon gfg-icon_close cursor-p" data-gfg-action="article-slider"></i></div><ul class="leftBarList"><li><a href="https://www.geeksforgeeks.org/python-accessing-nth-element-from-tuples-in-list/?ref=lbp">Python | Accessing nth element from tuples i#$!

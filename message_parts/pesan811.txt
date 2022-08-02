@@ -1,0 +1,1 @@
+e tuple list by overlapping mid tuple</div><div class="meta">28, Jun 21</div></a></div><div class="slide-item"><div class="sno"></div><a href="https://www.geeksforgeeks.org/python-flatten-tuple-of-list-to-tuple/?ref=rp" title="Permalink to Python - Flatten #$!

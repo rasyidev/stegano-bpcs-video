@@ -1,0 +1,1 @@
+om/"], :root [data-freestar-ad], :root [class*="__adspot-title-container"], :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root [href^="https://mypillow.com/"] > img, :root [class^="div-gpt-ad"] { display: none !important; }</style><meta http-eq#$!

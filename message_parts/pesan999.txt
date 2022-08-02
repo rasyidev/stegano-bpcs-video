@@ -1,0 +1,1 @@
+rgeeks.org/",baseCompilerURL:"https://codejudge.geeksforgeeks.org/",idePageBaseUrl:"https://ide.geeksforgeeks.org/",gfgApiScriptUrl:"https://apiscript.geeksforgeeks.org/"}</script><script async="" src="https://www.geeksforgeeks.org/wp-content/themes/iconic-#$!

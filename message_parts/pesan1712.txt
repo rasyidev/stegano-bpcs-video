@@ -1,0 +1,1 @@
+code class="comments"># using loop</code></div><div class="line number4 index3 alt1">&nbsp;</div><div class="line number5 index4 alt2"><code class="comments"># initialize tuple</code></div><div class="line number6 index5 alt1"><code class="plain">test_tup <#$!

@@ -1,0 +1,2 @@
+-output"><strong>Output :&nbsp;</strong><p></p><pre>The original tuple : (10, 4, 5, 6, 8)
+Does tuple contain required value ? : True</pre></div><p><strong>Method #2: Using in operator&nbsp;</strong></p><p>It is used to perform this task. It is a one-liner a#$!

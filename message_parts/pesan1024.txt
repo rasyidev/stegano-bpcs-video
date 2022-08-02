@@ -1,0 +1,1 @@
+"], :root div[class^="Directory__footerAds"], :root div[class^="Component-dfp-"], :root div[class^="BlockAdvert-"], :root div[class^="BannerAd_"], :root div[class^="AdhesionAd_"], :root div[class^="Ad__bigBox"], :root div[class^="Ad__adContainer"], :root di#$!

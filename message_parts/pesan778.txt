@@ -1,0 +1,1 @@
+">=</code> <code class="plain">N </code><code class="keyword">in</code> <code class="plain">test_tup</code></div><div class="line number17 index16 alt2">&nbsp;</div><div class="line number18 index17 alt1"><code class="comments"># printing result</code></div#$!

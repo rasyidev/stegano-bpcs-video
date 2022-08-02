@@ -1,0 +1,1 @@
+nloadweb.org/"], :root a[href^="http://www.download-provider.org/"], :root a[href^="http://www.down1oads.com/"], :root a[href^="https://scurewall.co/"], :root a[href^="https://pb-track.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a#$!

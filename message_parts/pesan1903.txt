@@ -1,0 +1,1 @@
+ href="https://news.geeksforgeeks.org/technology?ref=footer">Technology</a></li><li><a href="https://news.geeksforgeeks.org/work-career?ref=footer">Work &amp; Career</a></li><li><a href="https://news.geeksforgeeks.org/business?ref=footer">Business</a></li><#$!

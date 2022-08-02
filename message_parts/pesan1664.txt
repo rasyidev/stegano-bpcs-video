@@ -1,0 +1,1 @@
+ a variable is string</a></li><li><a href="https://www.geeksforgeeks.org/python-string-isnumeric-method/?ref=lbp">Python String isnumeric() Method</a></li><li><a href="https://www.geeksforgeeks.org/python-string-isdigit-method/?ref=lbp">Python String isdigi#$!

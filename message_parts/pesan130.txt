@@ -1,0 +1,1 @@
+> .container > #aside-promotion, :root a[href^="http://www.babylon.com/welcome/index?affID"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://bluedelivery.pro/"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="http:/#$!

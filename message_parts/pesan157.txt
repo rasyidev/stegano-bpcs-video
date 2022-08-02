@@ -1,0 +1,1 @@
+[href^="https://www.g4mz.com/"], :root a[href^="http://webgirlz.online/landing/"], :root a[href^="http://eclkmpsa.com/"], :root a[href^="http://wopertific.info/"], :root a[href^="http://earandmarketing.com/"], :root div[class^="hp-ad-rect-"], :root a[href^=#$!

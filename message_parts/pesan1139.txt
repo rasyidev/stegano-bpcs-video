@@ -1,0 +1,1 @@
+root a[href^="http://ads.betfair.com/redirect.aspx?"], :root a[href^="http://adserver.adreactor.com/"], :root a[href^="http://ads.sprintrade.com/"], :root .section-subheader > .section-hotel-prices-header, :root a[href^="http://landingpagegenius.com/"], :ro#$!

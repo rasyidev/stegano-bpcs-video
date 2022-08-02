@@ -1,0 +1,1 @@
+ > .itemLinkPET, :root a[href^="http://www.adbrite.com/mb/commerce/purchase_form.php?"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="http://www.1clickdownloader.com/"], :root #$!

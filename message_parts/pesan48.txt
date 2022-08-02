@@ -1,0 +1,1 @@
+="text/css">:root [id^="bsa-zone"], :root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root mq-programmatic-ad, :root iframe[src^="http://www.adpeepshosted.com/adpeeps.php?"], :root div[id^="zergnet-widget"], :root div[id^="traffective-ad-"], :#$!

@@ -1,0 +1,1 @@
+^="http://www.graboid.com/affiliates/"], :root a[href^="http://www.getyourguide.com/?partner_id="], :root a[href^="http://www.gamebookers.com/cgi-bin/intro.cgi?"], :root a[href^="http://www.friendlyquacks.com/"], :root a[href^="https://www.financeads.net/tc#$!

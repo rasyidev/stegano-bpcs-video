@@ -1,0 +1,1 @@
+isplay vowels in a string</a></li><li><a href="https://www.geeksforgeeks.org/python-string-count-method/?ref=lbp">Python String count() Method</a></li><li><a href="https://www.geeksforgeeks.org/python-count-occurrences-of-a-character-in-string/?ref=lbp">Pyt#$!
