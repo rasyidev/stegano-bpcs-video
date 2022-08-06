@@ -1,3 +1,2 @@
-frames
-frames_stego
-.ipynb_checkpoints/*
+frames/*
+frames_stego/*
